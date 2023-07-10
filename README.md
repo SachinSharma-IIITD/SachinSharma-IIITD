@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SachinSharma-IIITD
-- 👀 I’m interested in Artificial Intelligence and Machine Learning, Drones and Robotics, Automation, Web Development, and more.
+- 👀 I’m interested in Software Development, Artificial Intelligence and Machine Learning, Drones and Robotics, Automation, Web Development, and more.
 - 🌱 I’m currently learning CS with AI at IIIT Delhi.
 - 📫 Reach me at https://www.linkedin.com/in/sachin-sharma-89291726a/
 
